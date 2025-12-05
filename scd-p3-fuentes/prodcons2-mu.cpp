@@ -7,7 +7,7 @@
 // Implementación del problema del productor-consumidor con
 // un proceso intermedio que gestiona un buffer finito y recibe peticiones
 // en orden arbitrario
-// (versión con un único productor y un único consumidor)
+// (versión con productor y consumidor multiple)
 //
 // Historial:
 // Actualizado a C++11 en Septiembre de 2017
